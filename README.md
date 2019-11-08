@@ -1,3 +1,4 @@
+exit
 # Reverse Each Word
 
 ## Learning Goals
